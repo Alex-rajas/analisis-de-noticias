@@ -1,0 +1,31 @@
+# =======================================================
+# DEPENDENCIAS DEL PROYECTO (Python 3.10.11)
+# =======================================================
+
+# 1. ORQUESTACIÓN Y ENTORNO
+# -------------------------
+python-dotenv             # Gestión de variables de entorno (.env)
+supabase                  # Cliente Python para interactuar con Supabase
+pydantic>=2.0             # Estructuras de datos profesionales (para el JSON estructurado)
+
+
+# 2. PROCESAMIENTO DE LENGUAJE NATURAL Y LLM
+# -----------------------------------------
+google-genai              # Cliente Python para la API de Gemini
+anthropic                 # Cliente Python para la API de Claude
+langchain-core            # Utilidades de LangChain para orquestación (opcional, pero útil)
+
+
+# 3. WEB SCRAPING Y PROCESAMIENTO DE TEXTO
+# ----------------------------------------
+requests                  # Peticiones HTTP para descargar páginas y RSS
+beautifulsoup4            # Parseo de HTML/XML (extracción de texto limpio)
+lxml                      # Parseador rápido para BeautifulSoup y manejo de XML (RSS)
+
+
+# 4. DATA SCIENCE Y SERIES TEMPORALES (Fase Quant)
+# -------------------------------------------------
+pandas                    # Estructuras de datos (DataFrame) para el análisis de series temporales
+numpy                     # Soporte para operaciones numéricas y arrays
+scikit-learn              # Modelos de Machine Learning (ej. Regresión Logística, Random Forest)
+yfinance                  # Herramienta para descargar datos históricos de precios (OHLCV)

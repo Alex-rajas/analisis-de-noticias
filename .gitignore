@@ -1,0 +1,92 @@
+# ===================================================================
+# Archivo .gitignore para el Proyecto de Análisis Quant (Python + IA)
+# ===================================================================
+
+# 1. SECRETOS Y CONFIGURACIÓN (¡¡CRÍTICO!!)
+# -------------------------------------------------------------------
+# Ignora el archivo de entorno que contiene las claves de API (Gemini, Claude, Supabase).
+# NUNCA subas este archivo a GitHub.
+*.env
+.env
+
+
+# 2. DEPENDENCIAS Y ENTORNO VIRTUAL
+# -------------------------------------------------------------------
+# Ignora la carpeta del entorno virtual de Python.
+venv/
+.venv/
+env/
+.env/
+lib/
+lib64/
+include/
+bin/
+
+
+# 3. DATOS GENERADOS POR EL PROYECTO
+# -------------------------------------------------------------------
+# Ignora el *contenido* de las carpetas de datos.
+# El código debe ser reproducible; no subimos los datos brutos o procesados.
+data/raw/*
+data/processed/*
+
+# (Opcional: Si quieres mantener las carpetas vacías en Git,
+# crea un archivo vacío llamado ".gitkeep" dentro de "raw" y "processed",
+# y descomenta la siguiente línea para asegurarte de que SÍ se sube)
+# !data/raw/.gitkeep
+# !data/processed/.gitkeep
+
+
+# 4. CACHÉ DE PYTHON Y ARTEFACTOS DE CONSTRUCCIÓN
+# -------------------------------------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Artefactos de construcción e instalación
+build/
+dist/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+
+# 5. ANÁLISIS QUANT (NOTEBOOKS Y CACHÉ)
+# -------------------------------------------------------------------
+# Ignora los checkpoints de Jupyter Notebook, pero SÍ sube los .ipynb
+.ipynb_checkpoints/
+
+# Ignora bases de datos de SQLite generadas por scripts
+*.db
+*.sqlite
+*.sqlite3
+
+
+# 6. LOGS Y ARTEFACTOS DE PRUEBAS
+# -------------------------------------------------------------------
+*.log
+logs/
+
+# Cobertura de tests
+.coverage
+.coverage.*
+htmlcov/
+
+
+# 7. ARCHIVOS DE IDE Y SISTEMA OPERATIVO (Boilerplate)
+# -------------------------------------------------------------------
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Windows
+Thumbs.db
+desktop.ini
