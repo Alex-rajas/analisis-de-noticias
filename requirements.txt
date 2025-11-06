@@ -29,3 +29,8 @@ pandas                    # Estructuras de datos (DataFrame) para el análisis d
 numpy                     # Soporte para operaciones numéricas y arrays
 scikit-learn              # Modelos de Machine Learning (ej. Regresión Logística, Random Forest)
 yfinance                  # Herramienta para descargar datos históricos de precios (OHLCV)
+
+# 5. DASHBOARD Y VISUALIZACIÓN
+# -----------------------------
+streamlit
+plotly

@@ -107,7 +107,7 @@ class SupabaseHandler:
         """
         try:
             response = self.supabase.table(TABLE_NAME)\
-                .select("published_at, stock_ticker, sentiment_score, relevance_score, url")\
+                .select("published_at, stock_ticker, sentiment_score, relevance_score, url, title, source, reasoning")\
                 .not_.is_("sentiment_score", "null")\
                 .order("published_at", desc=False)\
                 .execute()
