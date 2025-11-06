@@ -4,6 +4,7 @@ import feedparser
 from typing import List, Dict, Optional
 from datetime import datetime
 import pytz
+import os
 
 # Configuración (usa el mismo User-Agent definido en tu .env)
 USER_AGENT = os.getenv("USER_AGENT", "Mozilla/5.0 (Custom News Agent)")
