@@ -1,0 +1,780 @@
+-> Conexión a Supabase establecida.
+
+--- [INICIANDO FASE 1: RECOLECCIÓN MULTI-FUENTE] ---
+
+--- Procesando Fuente: CincoDías ---
+-> Buscando nuevos artículos en CincoDías...
+-> Encontrados 69 enlaces.
+
+ Procesando: El Tesoro paga casi el 3% en letras a nueve meses ...
+   [OK] Texto extraído con 4111 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 4af137d8bef17ec6fd40eacce3dd8e79e3749c95f8140974b96040c2ce27a5c5.txt
+   [DB OK] Metadatos insertados. UUID: 841f33d5-fa32-45a0-94b9-0519344f99ea
+
+ Procesando: Las aerolíneas rechazan sufragar la ampliación de ...
+   [OK] Texto extraído con 7359 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: ea71d04b1782de05c4dc8ad59fe4d573d685e8e9878096784b07b68c83926b82.txt
+   [DB OK] Metadatos insertados. UUID: 1a837521-833a-4969-9a8e-8867f9a4602b
+
+ Procesando: Inditex, Mercadona y El Corte Inglés, entre las 12...
+   [OK] Texto extraído con 5073 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 920ed996ca8c97517eab8f1944dac22dc685dda5f3a1c8c00ae1a133c4e68a50.txt
+   [DB OK] Metadatos insertados. UUID: 0afe3026-81bd-4dc8-9218-1f54d4a82150
+
+ Procesando: Naturgy y Enagás presentan en La Robla su proyecto...
+   [OK] Texto extraído con 4487 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 58add9db847b1158a7246a944dd2ce2b7641ab1864bd3dacf5aa714b5678ed98.txt
+   [DB OK] Metadatos insertados. UUID: 32d9ef55-428f-4b5e-87fe-96bc6c74e271
+
+ Procesando: El presidente de BBVA ganó 8,29 millones en 2022, ...
+   [OK] Texto extraído con 2286 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 3d46e26c1836cfa93c49274bcf28a77d1945ac8c26cb2b4fc06f3657ba228f62.txt
+   [DB OK] Metadatos insertados. UUID: 862c3012-ea0f-4f25-9be5-43d54e0dd508
+
+ Procesando: Díaz confirma que con la subida del SMI se cumple ...
+   [OK] Texto extraído con 3397 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 1bf08c85abc5914419d17696f3c0cf9b1d8e5c1d7068dd27b619209b813323f0.txt
+   [DB OK] Metadatos insertados. UUID: 33098681-2906-47ed-8698-2a8ddb71143d
+
+ Procesando: El Ibex mantiene las subidas tras la leve moderaci...
+   [OK] Texto extraído con 3541 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: f968b076645fc0cab64f07551fd20b7253a1a1022956600f000954c4a919f071.txt
+   [DB OK] Metadatos insertados. UUID: bc9072de-f188-4883-8cdd-1c4ad7b27691
+
+ Procesando: El Parlamento Europeo da luz verde al fin de la ve...
+   [OK] Texto extraído con 4271 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: cf2f88e4f679851e571e31d12200075c86f09fda448accd8138c3434a97c4f3a.txt
+   [DB OK] Metadatos insertados. UUID: e95bac9e-db5d-4133-83a1-d47dbd832f31
+
+ Procesando: Un tribunal fija una indemnización superior a los ...
+   [OK] Texto extraído con 3647 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 3e47ac1fe40701d0bfe513c4567c776e9e6444c4124b4440b9d9b36a6ba7db38.txt
+   [DB OK] Metadatos insertados. UUID: e78778f3-e3b9-4a96-ae72-51b93a79a652
+
+ Procesando: El espejismo cegador del tesoro de las letras...
+   [OK] Texto extraído con 6965 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 760fc39f797757971f079c1ba2f7665b42b728048f8dbf7131cffe8ee778c9e2.txt
+   [DB OK] Metadatos insertados. UUID: b977956c-1aac-4c34-9aaa-8ef699fd18cd
+
+ Procesando: Allianz, Zurich y Generali pugnan con más de 1.200...
+   [OK] Texto extraído con 4435 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 4acd8386d129c70e5e679d9db017ba9b8b3fcf90654d8231c63d0390dcc7db74.txt
+   [DB OK] Metadatos insertados. UUID: 4b972ee1-c1e6-4703-b278-25113dca8deb
+
+ Procesando: El Banco de España revisa al alza el crecimiento d...
+   [OK] Texto extraído con 4329 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 805c9bd2babc3c5c36f010eb7f9219a4d3319671a6ad7f8f3a4e258b9b6edb5b.txt
+   [DB OK] Metadatos insertados. UUID: 368bed3a-f050-4ce7-ac20-a7d71b7f190b
+
+ Procesando: La CNMC descarta multar a las gasistas por su aten...
+   [OK] Texto extraído con 3642 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 77338772eb743245536227ac99662460fa0c31464715dfe96fdcfcdf368e6e61.txt
+   [DB OK] Metadatos insertados. UUID: 6b684793-7ea6-4e91-b8fb-d085532a5679
+
+ Procesando: Air India arranca el mayor pedido de aviones de la...
+   [OK] Texto extraído con 4708 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: bffe8a01e8734651610b6ec53445a8ebedd77b53eb5ef2402e6d6639cd71f597.txt
+   [DB OK] Metadatos insertados. UUID: bef58834-3f84-42e0-967c-2b1de83b3a62
+
+ Procesando: Finaccess se alía con Afi para subirse a la ola de...
+   [OK] Texto extraído con 3545 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 1067bd2054ccbb3a08c07360062d81e634bd6ddf87795659bd28e7dc42155a71.txt
+   [DB OK] Metadatos insertados. UUID: bf124087-3173-4414-8c35-fb785d4b1f92
+
+ Procesando: Ford despedirá a uno de cada nueve empleados en Eu...
+   [OK] Texto extraído con 4145 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: bd93ea3ff6f91a763045109ab6e16c1d5c826eb42c63236404a717f05ea58f04.txt
+   [DB OK] Metadatos insertados. UUID: 3543c726-74e2-4c73-bae3-457e6309d4af
+
+ Procesando: Telefónica y UGT acuerdan una subida salarial del ...
+   [OK] Texto extraído con 2657 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: e1d9c803896182d7f91aa177f5edfcbe01c4c87a9f042dff472ec7b6e7e075cc.txt
+   [DB OK] Metadatos insertados. UUID: e27e5bae-24fe-4380-9de1-aae86371beb7
+
+ Procesando: Mazars facturó 2.450 millones en el año, un 16,4% ...
+   [OK] Texto extraído con 4616 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: aaafeca2a96bfe241463970f639852fbd4386ed3f2d37af7dfe38c7930b3469c.txt
+   [DB OK] Metadatos insertados. UUID: 33a3989c-0a9c-4281-86e1-05bf0b8b2ae9
+
+ Procesando: AXA Seguros Generales anuncia un ERE...
+   [OK] Texto extraído con 2084 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 15070c8b7f95936bc449645717ac70a7d4c741deb6c75bb84956bd2949fc4be2.txt
+   [DB OK] Metadatos insertados. UUID: 2774c490-231c-4754-b329-f720663e6e37
+
+ Procesando: PharmaMar sufre en Bolsa tras un recorte de valora...
+   [OK] Texto extraído con 2495 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: fb2cf1019c40f51fc88d1b7200eb90758d025fbde73efcbd3a98d901a740ca5b.txt
+   [DB OK] Metadatos insertados. UUID: 2e9c48d5-67ce-4163-af2b-2a9da706e3c1
+
+ Procesando: Hacer lo mínimo indispensable: la ‘Gran Dimisión’ ...
+   [OK] Texto extraído con 4672 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: b93390255001ea24a2673be9d76b3e05e2841ee627c4a2433a687bed9dff52b7.txt
+   [DB OK] Metadatos insertados. UUID: 4d54a914-7225-4a02-8236-2b4d014937aa
+
+ Procesando: El Gobierno elimina el Alto Comisionado para impul...
+   [OK] Texto extraído con 5529 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: d6407f43ccd5ae6544b1d50403f5fd3ce366c1293e88d90abf386f2377d509c1.txt
+   [DB OK] Metadatos insertados. UUID: 7a2a674b-962c-491b-8e98-65f68f291e5f
+
+ Procesando: EBN Banco mejora el interés de todos sus depósitos...
+   [OK] Texto extraído con 2038 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 96e33ed030b33e3a9e22ab474173398af1745e8b2105cd04744e8573653b848a.txt
+   [DB OK] Metadatos insertados. UUID: 67a9774a-011d-4df3-8368-9cd6a4f9d324
+
+ Procesando: Más expositores y más presencia internacional en G...
+   [OK] Texto extraído con 5075 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 79787a98f7bbda39f264d75602cad4b1e35780e077fc40fa3e3afe2611719926.txt
+   [DB OK] Metadatos insertados. UUID: 7294f3b9-a9d6-43f7-b0b0-c69e36614dcc
+
+ Procesando: Un juez de Madrid abre la puerta a unificar las qu...
+   [OK] Texto extraído con 4102 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: f6688cf3106d2b2775b335f9c0538cfa1e6293baf8ce5e6c269c8c590f804fa5.txt
+   [DB OK] Metadatos insertados. UUID: 4a6571da-d3ea-4277-bf62-cf06b34852e4
+
+ Procesando: La familia Reyzabal abrirá un hotel aledaño a los ...
+   [OK] Texto extraído con 2655 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 227e8f6a0a02ed46692e466cae4333fce28d86f26b7c9fc539203f9006c899b1.txt
+   [DB OK] Metadatos insertados. UUID: d942b355-0100-474d-bd88-45268516eec2
+
+ Procesando: Así es la vivienda ideal para la generación Z...
+   [OK] Texto extraído con 3407 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: be2dd8ee72dd87c5b89ebc8a5e17aeba6eac7b8ed8ec39d0a3f541b526639045.txt
+   [DB OK] Metadatos insertados. UUID: 4915b457-fabd-4175-8ecd-27031cb837ff
+
+ Procesando: Consulta la información de más de 5 millones de em...
+   [ERROR HTTP] Fallo al descargar https://cincodias.elpais.com/cincodias/2022/06/15/extras/1655280256_725343.html#?ref=rss&format=simple&link=link: 404 Client Error: Not Found for url: https://cincodias.elpais.com/cincodias/2022/06/15/extras/1655280256_725343.html#?ref=rss&format=simple&link=link
+
+ Procesando: Cómo se puede acceder al paro de los autónomos en ...
+   [OK] Texto extraído con 2537 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 09432675351b7323f5af3584acdbe959205c51331e2da42ed2a9b84393b1a999.txt
+   [DB OK] Metadatos insertados. UUID: 8ee28486-0971-4a52-8daa-d9913d8ad1a7
+
+ Procesando: Memes y frustración: la importancia de rediseñar l...
+   [ERROR HTTP] Fallo al descargar https://cincodias.elpais.com/cincodias/2023/02/08/extras/1675852262_165936.html#?ref=rss&format=simple&link=link: 404 Client Error: Not Found for url: https://cincodias.elpais.com/cincodias/2023/02/08/extras/1675852262_165936.html#?ref=rss&format=simple&link=link
+
+ Procesando: La SEC adopta una estrategia reactiva con las crip...
+   [OK] Texto extraído con 3328 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 3c7aef7394172d2e1572de3f6401e1225a7a4d32e1ad6bb2abc8a9e0a9d0333d.txt
+   [DB OK] Metadatos insertados. UUID: 5b1291b9-109d-4b4f-90fc-6267a2f86796
+
+ Procesando: Por qué este año veremos una explosión de concurso...
+   [OK] Texto extraído con 5801 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: f837b2c5bceb93aedc945f5ba38d6284cf5ed3865653e895d0174c894e722f2c.txt
+   [DB OK] Metadatos insertados. UUID: 640afeb5-24f5-4635-9f34-a06e4e2f1c9a
+
+ Procesando: Lyft es el número dos de un sector en el que solo ...
+   [OK] Texto extraído con 2645 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 4a2947429782bda6020bc272e35ab61e8035e4e0de61b3a47afe36a6fd7eb46e.txt
+   [DB OK] Metadatos insertados. UUID: 8993145b-c5b7-4859-be85-a7ee937ad6f9
+
+ Procesando: España debe aprovechar un 2023 más despejado de lo...
+   [OK] Texto extraído con 3216 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 728376c52db2f6a92ebce6552ccaafade911391d9e679f1d7f0e72df4642440f.txt
+   [DB OK] Metadatos insertados. UUID: 446e0bd6-134c-4dc4-8c77-eb9730c13e6d
+
+ Procesando: La banca deberá avisar de que los fondos con renta...
+   [OK] Texto extraído con 5440 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 5e31161dcab05716edcd859f46bd6b5670afa12bc4bfd6881fbdd86a6d14a5f5.txt
+   [DB OK] Metadatos insertados. UUID: 2ae1182c-f690-406b-9d50-c3ac47a93d57
+
+ Procesando: El euríbor diario traspasa la barrera del 3,5% y l...
+   [OK] Texto extraído con 3638 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: e34ec0ce0708eff7f3215a2cfa63a1b4fff6ba919fb55c5a3b8c7cf073a92df3.txt
+   [DB OK] Metadatos insertados. UUID: 59617a46-3ee0-4fa0-9c01-fd55b6276a0b
+
+ Procesando: El regulador financiero de Nueva York ordena paral...
+   [OK] Texto extraído con 2292 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 6ea1c13b5e1cb2d25ad01a79bd473ba7afb53f3a579a257a1c5e79dc345099fa.txt
+   [DB OK] Metadatos insertados. UUID: 43f9bb01-45dc-49b9-a932-c680dce5704e
+
+ Procesando: Mastercard Send, envíos de dinero y pagos instantá...
+   [OK] Texto extraído con 5688 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 6d67db0b51da7155fb951fbdb0fdac1f8a49143f4ab4a3038e9f8120747f14f1.txt
+   [DB OK] Metadatos insertados. UUID: 827dd780-cb76-4630-9c13-bcdec5338d54
+
+ Procesando: Orange inaugura en España los servicios de 5G+ y s...
+   [OK] Texto extraído con 2823 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: d21fa6211442e2536f69bd45f7e7bcb953f5c0c53c39750e5a77fb895b4e8bce.txt
+   [DB OK] Metadatos insertados. UUID: 70583538-93b1-458f-8188-8a7d0308a81f
+
+ Procesando: Majorica sale del concurso de acreedores con plane...
+   [OK] Texto extraído con 4489 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 153c141589ea3b37fe3e706649b222f0567e41ea014391a960c2f3e5484ae001.txt
+   [DB OK] Metadatos insertados. UUID: f604fbd7-deca-4ee5-9209-2df3f395a950
+
+ Procesando: Grenergy se consolida en EE UU con la compra del 1...
+   [OK] Texto extraído con 2984 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: fc5e333f5d056ac6754b001f242e0dd094b5311b5a11f2521f15b5bd076ce800.txt
+   [DB OK] Metadatos insertados. UUID: 1c95cdfd-7dd7-4703-ba21-180e0e95b5f2
+
+ Procesando: Siemens Gamesa estudia abrir su primera fábrica de...
+   [OK] Texto extraído con 2901 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 437d15b52c4a650b8ac83956135af239f04b6f8da52c3ab79d75c7c145bb2dd1.txt
+   [DB OK] Metadatos insertados. UUID: 0787f124-dfb2-4b04-a189-1abe5c287048
+
+ Procesando: Aena supera por primera vez el tráfico previo a la...
+   [OK] Texto extraído con 2408 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 16af6e692492821ef6642db73a149a7de06cf0205e66568be85ada87a2ad754b.txt
+   [DB OK] Metadatos insertados. UUID: 2e75d0cd-eb01-4368-81ba-0e9afbec38a5
+
+ Procesando: Liberty Global, socio de Telefónica, irrumpe en Vo...
+   [OK] Texto extraído con 4076 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 0f5cf0743313dd5641b1ab8ac8e77bb558578f8ecbb7ac25663eb0019fdad874.txt
+   [DB OK] Metadatos insertados. UUID: 9a488d6f-db04-413c-9e61-a778572df7eb
+
+ Procesando: Mercadona cuadruplica sus inversiones para instala...
+   [OK] Texto extraído con 2317 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 672aad5ee37094104e523c9fa053df7c0ff0a123ab5cccd6a0a74e221549cae3.txt
+   [DB OK] Metadatos insertados. UUID: 45179683-934d-463e-85ab-015186c1fe9e
+
+ Procesando: Quantica Renovables se consolida como una de las e...
+   [OK] Texto extraído con 9351 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: b9c9714c2a0d636d50fdb3f3e4d1702ed3a0797bf33a68799153e27e3c1733a7.txt
+   [DB OK] Metadatos insertados. UUID: eb1e2094-a5be-4dc1-baee-8fc4b3802b8e
+
+ Procesando: Bruselas afirma que es el momento de volver a la p...
+   [OK] Texto extraído con 3422 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: a89e8a5d6385a69089a54caebfa7f22afc819015df288f39c14272eaa086a207.txt
+   [DB OK] Metadatos insertados. UUID: 0de5d16a-c977-4c51-904e-6c1aaf57b430
+
+ Procesando: Alemania y seis países más discrepan de la propues...
+   [OK] Texto extraído con 3824 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 73458459730d95ba28a4c1a36ed839e0009339ebcd03ca8d56609ad392445091.txt
+   [DB OK] Metadatos insertados. UUID: ea1ac1f5-31fc-4d8d-bc85-4a653c6ec7ef
+
+ Procesando: La economía europea salva in extremis la recesión ...
+   [OK] Texto extraído con 2988 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 426aefd67e9366271dd9ad8462e0d9b9d8f787d064a52985bc7fa3107987c40f.txt
+   [DB OK] Metadatos insertados. UUID: 33c7dd65-3afd-4a07-b106-a73873a0d22d
+
+ Procesando: La incertidumbre seguirá difuminando las prevision...
+   [OK] Texto extraído con 3936 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: e56730cbf4f4eae5ad9f8a153bef47a08056f67321821c2c82a25c8ac38c8fec.txt
+   [DB OK] Metadatos insertados. UUID: 9cbbcc47-75ec-45ac-b2de-6cacf0677eac
+
+ Procesando: Claves para mirar con lupa la letra pequeña de las...
+   [OK] Texto extraído con 6304 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: bb68bc9df0069446594e0d1f9d56e293163cf2303dc09681fd421cd6aa5c1744.txt
+   [DB OK] Metadatos insertados. UUID: e4e10f12-7b43-4fe6-b547-0d277495bfb6
+
+ Procesando: MyInvestor aviva la guerra por el ahorro y da el 2...
+   [OK] Texto extraído con 3730 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: d5dc8577730d2c7870d0e6d7af3e7d37127fc1c7d9dc9762fe80824d3ef04c23.txt
+   [DB OK] Metadatos insertados. UUID: 5f64a378-8a44-463e-8e3c-27800019c44d
+
+ Procesando: Calendario 2023: estos son los 14 festivos del nue...
+   [OK] Texto extraído con 2371 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 01e52ca0d3ca940ef8835a83259de06e659a1e45e90e9a32801d7c44467e90d1.txt
+   [DB OK] Metadatos insertados. UUID: bb1da9a6-c046-4a89-b18a-953bab768ea5
+
+ Procesando: Joseba Orueta: “En 10 años hemos duplicado la cuot...
+   [OK] Texto extraído con 5847 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 7cfd736eeda596aab08ddead17e6189adcfe49682f0ff4bdfeb8476103184b9b.txt
+   [DB OK] Metadatos insertados. UUID: 4ff2a507-460a-49ba-b3ec-eb6681744e69
+
+ Procesando: Los fondos rozan su máximo histórico tras un enero...
+   [OK] Texto extraído con 4055 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: b54b00ead4b14ad33013fd5d8062cd8c085933fb77abbf1a500fd3c0220efa64.txt
+   [DB OK] Metadatos insertados. UUID: 57b421da-be55-49de-84e5-356c628fff73
+
+ Procesando: Buy & Hold: “Quienes entraron en el fondo hace poc...
+   [OK] Texto extraído con 3649 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 68f96b0a03e6483f76301d85e3d0056ac98ccfad5252192ff1df9a2abcbb9159.txt
+   [DB OK] Metadatos insertados. UUID: ecb11895-cf10-4b8c-aa67-ae8ae6051ef0
+
+ Procesando: Dunas obra el milagro: cierra 2022 con sus fondos ...
+   [OK] Texto extraído con 4620 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: fc1803273714fdff1a64d720ff1500ea8ea909e9e6b5a256b9470ccd0c779132.txt
+   [DB OK] Metadatos insertados. UUID: 86c4ba6a-f218-410d-aecf-550eda104375
+
+ Procesando: Los mileniales españoles se resisten a las subasta...
+   [OK] Texto extraído con 7479 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 831025b72576403919cd8ef62e23db2e5fbed9ee9b5756e441d7297362c7346f.txt
+   [DB OK] Metadatos insertados. UUID: 5bd7c405-be79-4bb3-b44d-e25c21c1df38
+
+ Procesando: Las empresas bajan a los ejecutivos del avión para...
+   [OK] Texto extraído con 4646 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: ada251540c75924069663220d341e26c9bc397ec28b9320ab22fc930d17ad611.txt
+   [DB OK] Metadatos insertados. UUID: f41319e6-45d8-4b2e-bba2-fb8727b0df14
+
+ Procesando: Los Oscar consuman el mal año de Netflix y la deja...
+   [OK] Texto extraído con 5006 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: ac6573d04542a2f283d4c2b8dfeaa03c712d4495aa79837c4c0467b64296188b.txt
+   [DB OK] Metadatos insertados. UUID: a2b51cea-150f-4799-a94d-389b6fec51ed
+
+ Procesando: Cómo gestionar el complicado momento de parar...
+   [OK] Texto extraído con 6954 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 52a84728b609785d1a68318ed16e47bdafae6a2bdda02d93b6bf1fafc3c86d56.txt
+   [DB OK] Metadatos insertados. UUID: 52d7a004-d6bd-43d6-b3d3-e20c2f009134
+
+ Procesando: Flexibilidad para la deuda privada y regreso de la...
+   [OK] Texto extraído con 5427 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 9659a4b7321ff8584755061a18b89f112cc9696ecdcefc8c63b91d357ae0f014.txt
+   [DB OK] Metadatos insertados. UUID: 02f51641-7815-41ca-bac4-cf77b1c5048d
+
+ Procesando: Préstamos: alta actividad y liquidez en un entorno...
+   [OK] Texto extraído con 6636 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: ac9f74e9ec60dbff2214d78a6ce7c410737514cca305152ef7a6163efc2d5fce.txt
+   [DB OK] Metadatos insertados. UUID: a9867254-1217-42bf-a7db-cdca7753717c
+
+ Procesando: Ayudas a la innovación que cambian y salvan vidas...
+   [OK] Texto extraído con 6873 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 53f285fecd19bb558183af2404155345a80ec3ed77a6c11ffa8974365f08c622.txt
+   [DB OK] Metadatos insertados. UUID: a06714a6-9c39-4d7d-b9e8-f83a73628100
+
+ Procesando: Las navieras ponen rumbo a los confines de la Tier...
+   [OK] Texto extraído con 5543 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 78d1fd9e2f69c62e5739f6f77ffcd8577aa2d844a01cd59230368791ef729950.txt
+   [DB OK] Metadatos insertados. UUID: d07840f3-5afa-43bb-b1f4-909544a008cb
+
+ Procesando: Calculadora de sueldo neto...
+   [ERROR HTTP] Fallo al descargar https://cincodias.elpais.com/cincodias/2017/03/28/mercados/1490701254_439936.html#?ref=rss&format=simple&link=link: 404 Client Error: Not Found for url: https://cincodias.elpais.com/cincodias/2017/03/28/mercados/1490701254_439936.html#?ref=rss&format=simple&link=link
+
+ Procesando: Calculadora de IRPF...
+   [ERROR HTTP] Fallo al descargar https://cincodias.elpais.com/cincodias/2022/09/15/economia/1663239080_399527.html#?ref=rss&format=simple&link=link: 404 Client Error: Not Found for url: https://cincodias.elpais.com/cincodias/2022/09/15/economia/1663239080_399527.html#?ref=rss&format=simple&link=link
+
+ Procesando: Simulador de hipotecas...
+   [ERROR HTTP] Fallo al descargar https://cincodias.elpais.com/cincodias/2017/03/28/mercados/1490702551_649737.html#?ref=rss&format=simple&link=link: 404 Client Error: Not Found for url: https://cincodias.elpais.com/cincodias/2017/03/28/mercados/1490702551_649737.html#?ref=rss&format=simple&link=link
+
+ Procesando: Simulador de pensiones...
+   [ERROR HTTP] Fallo al descargar https://cincodias.elpais.com/cincodias/2017/03/28/mercados/1490702635_182669.html#?ref=rss&format=simple&link=link: 404 Client Error: Not Found for url: https://cincodias.elpais.com/cincodias/2017/03/28/mercados/1490702635_182669.html#?ref=rss&format=simple&link=link
+
+--- Procesando Fuente: ElEconomista ---
+-> Buscando nuevos artículos en ElEconomista...
+-> Encontrados 0 enlaces.
+
+--- Procesando Fuente: Expansión ---
+-> Buscando nuevos artículos en Expansión...
+-> Encontrados 65 enlaces.
+
+ Procesando: IAG se desploma en Bolsa pese a elevar un 15% su b...
+   [OK] Texto extraído con 6226 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: ea2d08349c3d109395ab9d85fed0f5f24bfe470c8253570f026a8f28f4e43491.txt
+   [DB OK] Metadatos insertados. UUID: 8d0006c7-4053-4ce3-b9af-6ede22de4bd7
+
+ Procesando: El Supremo da vía libre a Hacienda para perseguir ...
+   [OK] Texto extraído con 8000 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 2913aa8a0782f70adb21b372ed2dc0ada8b3d5512a2f388675c76eb1d3507b77.txt
+   [DB OK] Metadatos insertados. UUID: 24b1fa1a-3a72-4e5a-a8e0-8ad70d51ec17
+
+ Procesando: Tesla aprueba el megabonus de 1 billón de dólares ...
+   [OK] Texto extraído con 4824 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: ef0ffb6b246fce35a21fd70b197bd0d4758220f0bf1a4cd643e8cb7e6ef34668.txt
+   [DB OK] Metadatos insertados. UUID: e2708117-48b0-4465-97cb-63305c9bff9a
+
+ Procesando: Xeito Investments, el 'family office' con vocación...
+   [OK] Texto extraído con 6313 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: ddff27144df3951ea276337d62e176f92937b87123f219b52a491c6d4304ca78.txt
+   [DB OK] Metadatos insertados. UUID: 8e4ac4f4-8e49-47e3-9cfb-46c228b729c9
+
+ Procesando: Lluvia de 340 millones de euros para la Bolsa espa...
+   [OK] Texto extraído con 3523 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: b791b6ad6083b454c4ac0e9613ef15a7a523a0886b6cc585ef4491c9160d23cd.txt
+   [DB OK] Metadatos insertados. UUID: 6e6a657f-1d69-4b77-bb34-d810bc8be175
+
+ Procesando: La familia que pilota el mayor centro de formación...
+   [OK] Texto extraído con 3778 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 0be7ad070816e1f9ee9aaefa7f0d60454028ace5bd406bad5e6b073c21306314.txt
+   [DB OK] Metadatos insertados. UUID: f1630ed2-f696-40e5-8e3d-7007d7dce7dc
+
+ Procesando: El Ibex choca con sus récords y amenaza los 16.000...
+   [OK] Texto extraído con 5608 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 39f56854d6e030cbd12b385f47bf335c73070d4816833696e41cd755ed345dcf.txt
+   [DB OK] Metadatos insertados. UUID: b05b164b-5828-4ead-9b13-fb4bc9a58d5e
+
+ Procesando: Cómo ajustar las carteras para limitar los riesgos...
+   [OK] Texto extraído con 8714 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 9c2491028ed4e778bfd0f8de3138ba4df8f4541c5f45eb4699fceedac987e700.txt
+   [DB OK] Metadatos insertados. UUID: 0bf9acd0-2b01-48c6-8111-28d67686d267
+
+ Procesando: EIG adelgaza la emisión de bonos respaldados por R...
+   [OK] Texto extraído con 2784 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 8e571b02c6114bc2732e355000ce4efe6b57e2459e31b5a223a24d94185a33bf.txt
+   [DB OK] Metadatos insertados. UUID: 2344b43c-a04e-4780-98e6-714bbeda79f6
+
+ Procesando: Telefónica: ventas en bloque y operaciones especia...
+   [OK] Texto extraído con 7238 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 9d47bb2235369ef85f4bcb0d041189b6de30705b3cdcf3d27e77a2e9ce85df59.txt
+   [DB OK] Metadatos insertados. UUID: 7166fda4-fbf7-4a0d-9ed2-dfebd255ec6c
+
+ Procesando: Terry Smith: "Puede haber una burbuja en Bolsa más...
+   [OK] Texto extraído con 8377 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: acaaf925633f9fe8f11f1e4d95af50b8a075c488f5f65933fb8b9aa9c5d6949e.txt
+   [DB OK] Metadatos insertados. UUID: adb8bb25-9c7a-48da-8798-7205c481229e
+
+ Procesando: Cómo ser un emprendedor de éxito y cuidar tu salud...
+   [OK] Texto extraído con 2586 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: db9445c211a44318df553c8d39c19b0d01fcb733165f0916f9852599957fe7a3.txt
+   [DB OK] Metadatos insertados. UUID: 42a12e7c-de80-4be4-86f7-c0af38292ab7
+
+ Procesando: Fuera de la sombra de Nick Clegg: Miriam González ...
+   [OK] Texto extraído con 8981 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: ff1ce53a4b9cada52eca14adb8649abadaccf6a4be7b090b07a266637d7a47e0.txt
+   [DB OK] Metadatos insertados. UUID: a31f249f-70ce-42a3-bc51-e3f7a01cb539
+
+ Procesando: ¿Son buenas las burbujas, en realidad?...
+   [OK] Texto extraído con 8252 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 5562ca15c0561b89a93e7549915a9c9d92e9fa7795ba1911c4e0533f4d5068db.txt
+   [DB OK] Metadatos insertados. UUID: 6a6cdb29-48b1-4316-85b2-8a51feafb557
+
+ Procesando: ¿Es un buen momento para comprar renta variable?...
+   [OK] Texto extraído con 1244 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 3c19abb53990f0cf846f19c8be31ebc7aba2f5081c650ab68908a98130d794ad.txt
+   [DB OK] Metadatos insertados. UUID: 6e89ef4a-ab8b-4d81-ba5e-ef8b44cdc7a0
+
+ Procesando: Las cerveceras logran beneficios récord pese a un ...
+   [OK] Texto extraído con 7016 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 3166a4e7de7e1e8c6d0e62a8ebd69d03783646fb3298b7456025be4aad6fca6a.txt
+   [DB OK] Metadatos insertados. UUID: 877c37bb-3100-47ca-b3bc-a7e1b986a0f0
+
+ Procesando: Los técnicos de Hacienda convocan huelga el 26 de ...
+   [OK] Texto extraído con 4487 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 234eddb9ba561696df8bae07a7086d351979a1833c7d2832065d79c4fff2c159.txt
+   [DB OK] Metadatos insertados. UUID: f3d19588-b9ba-4969-bd12-b6ed3a4b6783
+
+ Procesando: EDP da un giro estratégico y más dividendo a Masav...
+   [OK] Texto extraído con 5678 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 074f24ed1d94c63d7672fe099696b3ef8a9fb97bfddf07d9b683f3908b3efac8.txt
+   [DB OK] Metadatos insertados. UUID: c92c7acb-fa05-4a3b-908c-83d6d3c4f09e
+
+ Procesando: Fuera de Serie vuelve este fin de semana...
+   [OK] Texto extraído con 3292 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: c8387d73d00a3aef90796847d37971255ec93cfec31e083e11ebe6bb4bd11d88.txt
+   [DB OK] Metadatos insertados. UUID: 5f127395-6a5b-4e07-b23a-eacdfc9b6856
+
+ Procesando: ¿En qué valores invertir con las bolsas en máximos...
+   [OK] Texto extraído con 1526 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 252557cd5a835b9706ebabeda344315a427f350b0bdcf33e8d8c652325406cc6.txt
+   [DB OK] Metadatos insertados. UUID: 04d3c98b-3e9f-4776-8451-e2174e5aaf98
+
+ Procesando: Francine Odier: la pionera de la banca suiza que s...
+   [OK] Texto extraído con 2102 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 41691d10187ef16a179e1d378d24aaad6740c7ec979b3949a2d5d9a3cd5e560f.txt
+   [DB OK] Metadatos insertados. UUID: c14d5bf3-4eec-4287-bb67-513f0660f08b
+
+ Procesando: La Primera de Expansión sobre Inditex, Alta Veloci...
+   [OK] Texto extraído con 2111 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: c3fe05e742dbaa6df482d6db66e95b004d798567c2164934131b4bfb65c01490.txt
+   [DB OK] Metadatos insertados. UUID: 728125a1-4423-4374-96c9-df6667aa70d0
+
+ Procesando: Daniel Ek, el fundador de Spotify que quiere mante...
+   [OK] Texto extraído con 7090 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: fd4eecb42ac670a8f327ac28f47a0889bf3f4b5e790527870b9dc0f5e8926ca3.txt
+   [DB OK] Metadatos insertados. UUID: 00485c0f-b3db-4a97-bcfd-5a420e17af3b
+
+ Procesando: Técnicas Reunidas se dispara en Bolsa tras elevar ...
+   [OK] Texto extraído con 3386 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 81c20de2466ff2a5453075d5b146be17e1d9292e63481babc31e8c0e33409a0c.txt
+   [DB OK] Metadatos insertados. UUID: b53a7bfd-afe3-420d-84fe-6ecead8494bb
+
+ Procesando: Coche del año en Europa 2026: muchos eléctricos y ...
+   [OK] Texto extraído con 663 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: e65612721a4270f73d4c5bb2f342b52abe7fe47d680ee51c7360a2615252abb1.txt
+   [DB OK] Metadatos insertados. UUID: fb41db45-c4eb-426b-bf76-e6bf0b5241de
+
+ Procesando: El sueldo más habitual en España es ya apenas un 3...
+   [OK] Texto extraído con 11614 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: ec66eb9fd3829b49b8ae019d231a3fc07e90a425c58f3b87fba5298d39db8f08.txt
+   [DB OK] Metadatos insertados. UUID: 9aada2a7-9554-4874-8eff-31daf97ae5a3
+
+ Procesando: Atitlan ficha al socio de MCH José Manuel de Barto...
+   [OK] Texto extraído con 2671 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 2df2b058425fb7f130cdc5167de273e704b9bd2782b8165f52ad3183e8e80013.txt
+   [DB OK] Metadatos insertados. UUID: ed1eccd2-ac23-47e2-88cf-f3faa30f9017
+
+ Procesando: Indra tiende la mano a los gigantes de Defensa eur...
+   [OK] Texto extraído con 4051 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 4ac734f84c472dee01ad6b70bdd9a2554ee1fc89e913b19247bc80f283053287.txt
+   [DB OK] Metadatos insertados. UUID: c426be1e-6328-4ac1-9aec-f31a5a8bf925
+
+ Procesando: El privilegio de vivir en Retiro, una de las zonas...
+   [OK] Texto extraído con 8018 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 5fa1e849372d22d81166051701a3ba1ec486aedf1367955d1a7b92928d465959.txt
+   [DB OK] Metadatos insertados. UUID: b4c3613a-38a8-49e4-bf07-2361fb14bcc3
+
+ Procesando: El fútbol europeo cierra 76 operaciones en diez me...
+   [OK] Texto extraído con 4790 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 874d90312aec2c93e7d131821abbbf34e6e0f817910b936cd2fcece80fd34b45.txt
+   [DB OK] Metadatos insertados. UUID: 56f936a5-61e5-4374-b89d-31abf8c8e05e
+
+ Procesando: Nieve y mucho más en Baqueira Beret, un destino co...
+   [OK] Texto extraído con 8318 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: f2f59b4a45fa7680c45c2f85a6038676e60d477905f7612b804b49dfb25bd61d.txt
+   [DB OK] Metadatos insertados. UUID: 3375e072-cd42-456b-ad0e-ab7ea75aa7fd
+
+ Procesando: LaLiga y Globant abren una nueva era en inteligenc...
+   [OK] Texto extraído con 4540 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 293ad1dedfe623a70183f3ad805d2d4b2257b1d7cd79a970e9e87aa10eca1762.txt
+   [DB OK] Metadatos insertados. UUID: f851497b-514b-4df7-a4ac-52f121a25699
+
+ Procesando: La Universidad guía el fenómeno 'deep tech' en Esp...
+   [OK] Texto extraído con 6489 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: be1f61936bf0aa21ad89d198f09c61a7b3f2c8042c4ab5427449f65c24c0d629.txt
+   [DB OK] Metadatos insertados. UUID: c2c8fb8f-f61e-4ea3-bc56-9f141606c625
+
+ Procesando: Lecciones de Nueva York...
+   [OK] Texto extraído con 9715 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 43076b3b183abe83415e18a622704729656287e86c32727f2c79f798b1c62d5f.txt
+   [DB OK] Metadatos insertados. UUID: 298a55c3-97d5-48a2-9169-61a2cd7b0acf
+
+ Procesando: Puigdemont explicita su bloqueo a Sánchez...
+   [OK] Texto extraído con 3434 caracteres.
+   [STORAGE OK] Texto subido a: 48257ed0a35e2a9e016aca4b2e9bb0b44bae11bfbdfcd919614375a0b67b940c.txt
+   [DB OK] Metadatos insertados. UUID: a1ed397e-b68e-40b6-86b1-3a029959e069
+
+ Procesando: Junts vetará todas las leyes de Sánchez: cuáles so...
+   [OK] Texto extraído con 4137 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: d45898ce6167f86a593bab06d835b128c10c602dc9ab55a199f9290f1da6e506.txt
+   [DB OK] Metadatos insertados. UUID: 81743ae3-6179-4578-8e34-bc1a4b4a248e
+
+ Procesando: Díaz arrecia el asedio sobre las tecnológicas...
+   [OK] Texto extraído con 2451 caracteres.
+   [STORAGE OK] Texto subido a: e14b6ae4865991b0a58ed1ebc730bf776ec17d564cba8a0965efe88b360efc4d.txt
+   [DB OK] Metadatos insertados. UUID: ca2b5531-182d-4189-b647-2fe75eeb3540
+
+ Procesando: El lado correcto de la Historia y las cárceles ide...
+   [OK] Texto extraído con 6602 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 4a9836425722244a7d9c51fcfeffd9f40bdde72ada5a2e9baa2d6d37ec5e761e.txt
+   [DB OK] Metadatos insertados. UUID: b88fc853-34eb-4260-a76b-e121549f1d50
+
+ Procesando: El ajuste hipotecario de Santander: más rentabilid...
+   [OK] Texto extraído con 2368 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 71de8264752ed455c7f2f0b9ce8922666b35c2cccfa022eede83ed64acb3b6ec.txt
+   [DB OK] Metadatos insertados. UUID: 8c1b94f9-4b7e-4cdb-a29a-59cc74d91c36
+
+ Procesando: Jensen Huang (Nvidia): China ganará la carrera de ...
+   [OK] Texto extraído con 5197 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 2be0a21563bc411b9da64c32040a357181a7d0ca20af6a21db82f968f87e86b1.txt
+   [DB OK] Metadatos insertados. UUID: 3f59d28f-c7ce-479a-8678-91f68bb3d9a1
+
+ Procesando: Los tres mayores bancos japoneses se alían para em...
+   [OK] Texto extraído con 2206 caracteres.
+   [STORAGE OK] Texto subido a: 4df3ecee08d06dc67609a20ee57a5bb9b0907f9403c368b2696b168be87fa92b.txt
+   [DB OK] Metadatos insertados. UUID: 2d3ef236-0b46-42c3-b612-d8e37fa73978
+
+ Procesando: Cirsa negocia entrar en los cajeros 'cripto' BitBa...
+   [OK] Texto extraído con 4257 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: f04c0be1e1b6fe068a731fefcead979321665213fea99d5f9b0bd1f7a68c51d8.txt
+   [DB OK] Metadatos insertados. UUID: b3c9eb17-48dc-48d8-82fd-8b517bbee2b8
+
+ Procesando: JPMorgan apuesta por la banca europea...
+   [OK] Texto extraído con 3271 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: f9be4339e67441c1ec9418515e1037349be7071157306b0cc10ace3d3062a4e4.txt
+   [DB OK] Metadatos insertados. UUID: efce16ac-4e50-4012-9691-a8d831438c44
+
+ Procesando: Sacyr pone el foco en EEUU tras disparar un 81% el...
+   [OK] Texto extraído con 4073 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 1818842e3366574ba28906a4dd8547d5e873b0a964741f5486e7a27c46edcd3f.txt
+   [DB OK] Metadatos insertados. UUID: 4682fe34-eef8-4396-9e99-86f505ac8761
+
+ Procesando: Cellnex pagará  1.000 millones de dividendo hasta ...
+   [OK] Texto extraído con 2998 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: b0cbd6b24389ec4a450aadfd44c8d8cac29226e8ac7f9d2c00c044cb6a4cdb8e.txt
+   [DB OK] Metadatos insertados. UUID: c7379e78-e1a1-4f5e-863f-050646ffd69a
+
+ Procesando: España se sube al plan de la UE de alta velocidad ...
+   [OK] Texto extraído con 8540 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 6a3785bdcb28395693aa75bd96888f479d1b87d68ae861e90df2d6f29ea3cd4a.txt
+   [DB OK] Metadatos insertados. UUID: 65cdfdab-0872-423b-be60-52911de730d5
+
+ Procesando: Los líderes mundiales advierten sobre un posible "...
+   [OK] Texto extraído con 7289 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 09b1e492ec3ff0e5b2c90d12f7d21008cef0045c2513550c4c675a6ff64d8407.txt
+   [DB OK] Metadatos insertados. UUID: dd6b7205-9af8-4bf8-ae46-4756a44402cc
+
+ Procesando: Mapfre lidera el seguro que cubre el satélite espa...
+   [OK] Texto extraído con 5390 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: f53ca6a08ac716921ee1b427afea89da45ef5533dc3a9a6c247a435f607c308a.txt
+   [DB OK] Metadatos insertados. UUID: f81dd78b-3ae6-4881-8138-b8a47c4db6ea
+
+ Procesando: Las suites más caras: a partir de 20.000 euros la ...
+   [OK] Texto extraído con 7186 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: d3954cc6ebfe3092311e7aafe60f156631eff467ad15d250adc48f5c8ac03d68.txt
+   [DB OK] Metadatos insertados. UUID: cf7208c6-0be5-4ce3-8b9a-e7a2495396b7
+
+ Procesando: Cine de noviembre: grandes estrellas y casi casi N...
+   [OK] Texto extraído con 568 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: f4cac68db7159f232b14a3fee0e4f1b5ce73e2f10a0f83be872b912d000070a3.txt
+   [DB OK] Metadatos insertados. UUID: 3391677b-1307-4ab8-84a8-b9544f4fb02f
+
+ Procesando: Los centros de datos ante el reto de la sostenibil...
+   [OK] Texto extraído con 7228 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: d1c9159565d01033745386ae6d17f4e5786ab5614a40ae4e394ae663c5b1e640.txt
+   [DB OK] Metadatos insertados. UUID: 53f2a745-7b79-4dac-8683-09414846c19a
+
+ Procesando: Los 'dispute boards' o cómo evitar litigios en gra...
+   [OK] Texto extraído con 6176 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 9a843c5900ac98865922b224d6e1ce0e6b82b43a2365b33277d020307e03371d.txt
+   [DB OK] Metadatos insertados. UUID: 5664fb59-ccef-4e76-9871-59bc28660a81
+
+ Procesando: Cómo afecta la "aspiradora" del dólar sobre el bit...
+   [OK] Texto extraído con 9239 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: be7dccc76db98f3e692b59eca6e16f2fa26ce79b419c1687c57443c8ce64241e.txt
+   [DB OK] Metadatos insertados. UUID: 8eb9fb27-cfaf-4fd6-a233-e3136f8dffe5
+
+ Procesando: Naturgy vuelve a la 'Champions bursátil' tras el é...
+   [OK] Texto extraído con 3103 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: da43b34e95cea3d5c5507a336fb0f63771046c818ae0d723e71d398bc39deeba.txt
+   [DB OK] Metadatos insertados. UUID: 5f951a3a-530e-49b2-9c80-341b1a5ed8cf
+
+ Procesando: La Comisión Europea abre una investigación antimon...
+   [OK] Texto extraído con 5314 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: bdacc74eda2442176f45eeb8dfc36d3f218d745cb58612a4d88a0b2b39204364.txt
+   [DB OK] Metadatos insertados. UUID: 54e79cb0-8253-4c45-9894-1bb22bf46667
+
+ Procesando: La empresa líder en taxis voladores tiene previsto...
+   [OK] Texto extraído con 5654 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: b3880ada7fb1b705817fd446ff1ffa02d67373e729b90911bddca107aa38a054.txt
+   [DB OK] Metadatos insertados. UUID: caff291f-20f0-47af-b3fb-c81ccbe5d8e9
+
+ Procesando: Calviño presenta sus memorias: "Me convertí para u...
+   [OK] Texto extraído con 9006 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: a7c35bd05dc7f3eed64dc07cf0945fa0346646bdbd75ddc534d1eba30e7a3f6c.txt
+   [DB OK] Metadatos insertados. UUID: 402deab3-e02a-40e0-a4a7-40986f094003
+
+ Procesando: IAG se asocia con los satélites de Elon Musk para ...
+   [OK] Texto extraído con 3474 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: cba4a4f1e0fc18c1697fe54d35e53692e20949505b5ca29390559391508b1b8b.txt
+   [DB OK] Metadatos insertados. UUID: 93cfe922-3afa-43d8-8eb5-4e050d1f999b
+
+ Procesando: SIX, dueño de BME, diluirá su participación  en la...
+   [OK] Texto extraído con 5003 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: fca0d282f8b409b83600217d2febe7dd8f0a159014c4368e8472119d4b0dd359.txt
+   [DB OK] Metadatos insertados. UUID: 8954f58c-17e7-408b-a309-1638e1af0cee
+
+ Procesando: Milei rechaza la petición de los inversores de dej...
+   [OK] Texto extraído con 8533 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: ffe775fbf52c08d8aa68a0a4281d52d6abbad289ed873311ecbec8a621ca66cd.txt
+   [DB OK] Metadatos insertados. UUID: f215a3ca-967d-425a-a920-e6a0c4b33840
+
+ Procesando: Mapfre vuelve a los índices MSCI por su subida en ...
+   [OK] Texto extraído con 2411 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 4d482450a9fb63f0680ea75d5516666339e1b95a9f1abcbef2e5beddd7013c1d.txt
+   [DB OK] Metadatos insertados. UUID: 7c8ce810-c44f-4392-8d7e-9f7605add48d
+
+ Procesando: Los dueños de GCO, Santalucía y Ocaso, entre los 1...
+   [OK] Texto extraído con 4056 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 3e1465ab3047c6e6c7d4f05e82342af0ce8191c2fe73ad212bf3661e6f7f9397.txt
+   [DB OK] Metadatos insertados. UUID: fa8e2dee-b57f-4a4d-8dc2-5dd848d58b42
+
+ Procesando: Scope alerta de los altos costes del euro digital ...
+   [OK] Texto extraído con 3397 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: e39599d83a4adeb403b59726396c2978cb76c159ee354c096866b670683f5ec9.txt
+   [DB OK] Metadatos insertados. UUID: 6c63e9e1-0864-4274-a1f8-b47d9de66b10
+
+ Procesando: La marca lusa Delta Café aterriza en el 'kilómetro...
+   [OK] Texto extraído con 3097 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: be0c73ee428167fe4fc7d2b240f703bcefdcbbce368a91e4c8aee4de13f8f6a4.txt
+   [DB OK] Metadatos insertados. UUID: c4840622-7891-478d-98fa-aa4274e401b3
+
+ Procesando: VW, Mercedes y BMW suman 600.000 coches 'atrapados...
+   [OK] Texto extraído con 4592 caracteres.
+   [STORAGE INFO] El texto ya existe (409 Duplicate). Usando path: 2ef005ffd8a79dabd4dff5d17965511d12ad7d4e87b88c42c440e3283b698017.txt
+   [DB OK] Metadatos insertados. UUID: 2ccb4a2d-cb62-4b39-94da-567be74850e9
+
+--- Procesando Fuente: ElMundoFinanciero ---
+-> Buscando nuevos artículos en ElMundoFinanciero...
+-> Encontrados 0 enlaces.
+
+--- Procesando Fuente: Bloomberg ---
+-> Buscando nuevos artículos en Bloomberg...
+-> Encontrados 30 enlaces.
+
+ Procesando: Chinese Exports Unexpectedly Slump for First Time ...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-07/chinese-exports-unexpectedly-fall-after-us-trade-tensions-spiked) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Senegal Eurobonds Plunge After IMF Talks Paused Wi...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-07/senegal-eurobonds-plunge-after-imf-talks-paused-without-new-deal) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Japan’s Takaichi Shifts Economic Policy With Loose...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-07/japan-s-pm-takaichi-says-nation-s-economic-policy-has-changed) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Lots More on the Worsening State of the US Labor M...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-07/conor-sen-on-the-us-labor-market) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Lots More on the Worsening State of the Labor Mark...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/audio/2025-11-07/conor-sen-on-the-state-of-the-labor-market) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Turkey Central Bank Keeps End-2026 Inflation Targe...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-07/turkey-central-bank-keeps-end-2026-inflation-target-at-16) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Dubai Tops New York as Best Spot for Global Elite,...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-07/dubai-tops-new-york-as-best-spot-for-global-elite-rankings-show) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Polish Rate Cuts Set to End in Early 2026, MPC’s K...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-07/polish-rate-cuts-set-to-end-in-early-2026-mpc-s-kotecki-says) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: UK Energy Prices Are Down, But Consumers Still Fac...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-07/energy-costs-are-falling-but-uk-bills-aren-t) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: IMF Leaves Senegal Without a New Deal, Talks Set t...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-06/imf-moving-fast-as-possible-on-new-senegal-deal-official-says) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Sweden’s Apartment-Price Rise Signals Housing Mark...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-07/sweden-s-apartment-price-rise-signals-housing-market-rebound) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: How New US Tariff Doubts Will Play Out Among Trade...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-06/how-fresh-us-tariff-doubts-will-play-out-among-trading-partners) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Kazakhs Target Single-Digit Inflation With Key Rat...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-07/kazakhs-target-single-digit-inflation-with-key-rate-at-record) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Malaysian Ringgit Rises to 13-Month High on Rate, ...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-07/myr-usd-malaysian-ringgit-rises-to-13-month-high-on-rate-growth-outlook) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Philippine Growth Slumps to Four-Year Low on Graft...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-07/philippines-4-growth-disappoints-as-scandal-hits-confidence) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Japan, US to Join Forces to Mine Rare Earths Near ...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-07/japan-us-to-join-forces-to-mine-rare-earths-near-pacific-island) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: ECB’s Vujcic Says Policy in Good Place, Warns of M...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-07/ecb-s-vujcic-says-policy-in-good-place-warns-of-market-risks) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Japan’s Households Boost Spending Despite Inflatio...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-06/japan-s-households-boost-spending-again-despite-inflation-hit) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Indonesia Eyes N. Africa for Farm Exports After EU...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-07/indonesia-eyes-n-africa-for-farm-exports-after-eu-forest-law) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: How the Longest Government Shutdown Is Impacting t...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-06/how-the-longest-us-government-shutdown-is-hitting-the-economy) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: US Initial Jobless Claims Rose Last Week, State Da...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-06/us-initial-jobless-claims-rose-last-week-state-data-suggest) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: US Holiday Spending Projected to Exceed $1 Trillio...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-06/us-holiday-spending-projected-to-exceed-1-trillion-in-2025) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Banxico Cuts by Quarter Point as Trade Uncertainty...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-06/banxico-cuts-rates-by-quarter-point-as-trade-uncertainty-weighs) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Warren Confirms JPMorgan Bought Argentine Pesos fo...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-06/ars-usd-warren-confirms-jpmorgan-bought-argentine-pesos-for-us-treasury) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Fed’s Goolsbee ‘Uneasy’ About Further Rate Cuts Wi...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-06/fed-s-goolsbee-says-he-s-more-uneasy-about-rate-cuts-absent-data) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Fed’s Hammack Says Inflation a Bigger Concern Than...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-06/fed-s-hammack-says-inflation-a-bigger-concern-than-labor-market) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: ‘Jenga Tower’ US Economy Teeters as Middle Class P...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-06/us-economy-at-risk-of-weakening-with-growing-gap-between-rich-and-poor) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Bank of England’s Darkening Outlook Raises Stakes ...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-06/bank-of-england-s-darkening-outlook-raises-stakes-for-uk-budget) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Czechs Signal Tight Policy for Longer to Tame Infl...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-06/czechs-hold-rates-as-election-outcome-adds-to-inflation-concerns) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+ Procesando: Bailey Says He’ll Serve Out BOE Term in Pushback A...
+   [AVISO] Bloomberg (URL: https://www.bloomberg.com/news/articles/2025-11-06/bailey-responds-to-farage-comments-over-boe-governor-s-future) requiere un navegador (Selenium/Playwright) para evitar 403. Saltando.
+
+--- Procesando Fuente: ABC ---
+-> Buscando nuevos artículos en ABC...
+-> Encontrados 0 enlaces.
+
+--- [FASE 1: COMPLETADA] ---
+Total de artículos NUEVOS insertados (de todas las fuentes): 128
+
+--- [PIPELINE COMPLETADO] ---

@@ -21,7 +21,7 @@ langchain-core            # Utilidades de LangChain para orquestación (opcional
 requests                  # Peticiones HTTP para descargar páginas y RSS
 beautifulsoup4            # Parseo de HTML/XML (extracción de texto limpio)
 lxml                      # Parseador rápido para BeautifulSoup y manejo de XML (RSS)
-
+selenium                  # Automatización de navegadores para scraping dinámico
 
 # 4. DATA SCIENCE Y SERIES TEMPORALES (Fase Quant)
 # -------------------------------------------------
